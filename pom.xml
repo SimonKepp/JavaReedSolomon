@@ -38,4 +38,8 @@
   <name>Java Reed-Solomon Erasure Code implementation</name>
   <description>Private fork of BackBlaze's Java Reed Solomon implementation</description>
   <url>...</url>
- </project>
+  <organization>
+  	<name>Simon Kepp Nielsen</name>
+  	<url>http://www.kepponline.com</url>
+  </organization>
+</project>
