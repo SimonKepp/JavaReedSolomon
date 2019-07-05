@@ -5,6 +5,8 @@ which was originally built at [Backblaze](https://www.backblaze.com).
 There is an overview of how the algorithm works in my [blog
 post](https://www.backblaze.com/blog/reed-solomon/).
 
+This is a private fork of BackBlaze's original implementation. The only purpose of the fork is to gain control of the quality and release proces to use the library in internal projects. 
+
 The ReedSolomon class does the encoding and decoding, and is supported
 by Matrix, which does matrix arithmetic, and Galois, which is a finite
 field over 8-bit values.
